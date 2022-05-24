@@ -1,0 +1,26 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "core-js": "^3.8.3",
+    "redux": "^4.2.0",
+    "redux-thunk": "^2.4.1",
+    "vee-validate": "^4.5.11",
+    "vue": "^3.2.13",
+    "vue-async-computed": "^3.9.0",
+    "vue-file-base64": "^1.0.2",
+    "vue-router": "^4.0.15",
+    "vuex": "^4.0.2",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-service": "~5.0.0"
+  }
+}
